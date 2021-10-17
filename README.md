@@ -1,10 +1,10 @@
-[No more support.](https://t.me/fusufs/826)
+group https://chat.whatsapp.com/JyX9JtUNU1Q7ogrPddB3LI
 
 ----
 
 <div align="center">
   <img src="Chekuthan Odiyn.jpg" width="200" height="200">
-  <h1>😈Chekuthan Odiyn</h1>
+  <h1>😈Chekuthan Odiyn😈</h1>
 </div>
 <p align="center">
      chekuthanOdiyn
