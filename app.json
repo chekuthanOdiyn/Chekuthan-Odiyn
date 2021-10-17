@@ -1,14 +1,14 @@
 {
-    "name": "WhatsAsena",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
+    "name": "Chekuthan Odiyn.666",
+    "description": "ChekuthanOdiyn project - Makes it easy and fun to use Whatsapp.",
+    "logo": "Chekuthan Odiyn.jpg",
+    "keywords": ["whatsapp", "userbot", "ChekuthanOdiyn"],
+    "repository": "https://github.com/Quiec/ChekuthanOdiyn",
     "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "success_url": "https://t.me/ChekuthanOdiynSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ChekuthanOdiyn_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
             "required": true
         },
