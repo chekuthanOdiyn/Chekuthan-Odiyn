@@ -3,48 +3,45 @@
 ----
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
+  <img src="Chekuthan Odiyn.jpg" width="200" height="200">
+  <h1>😈Chekuthan Odiyn</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+     chekuthanOdiyn
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-    <br>
-</p>
+        <ap</a> |
+ 
 
 ----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
+![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/ChekuthanOdiyn?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/ChekuthanOdiyn?style=flat-square)
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Quiec/WhatsAsena/wiki)
+> [Also for support & help please come our  .](
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Quiec/ChekuthanOdiyn/wiki)
 
 > [Video Guide](https://www.youtube.com/watch?v=029KmetlKPU)
 
-> [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
+> [You can translate other languages from Crowdin](https://crowdin.com/project/ChekuthanOdiyn)
 
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What is ChekuthanOdiyn?
+**ChekuthanOdiyn,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
+[![Run on Repl.it](https://repl.it/badge/github/Quiec/ChekuthanOdiyn)](https://repl.it/@Quiec/ChekuthanOdiyn)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/ChekuthanOdiyn)
 
 ### The Hard Method
 ```js
-git clone https://github.com/Quiec/WhatsAsena.git
-cd WhatsAsena
-npm i
+git clone https://github.com/Quiec/Chekuthan Odiyn.git
+cd Chekuthan Odiyn
+npm 
 # Config.env oluşturun ve düzenleyin. #
 # Config.env create and edit. #
 node bot.js
@@ -74,7 +71,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
+[![Yusuf Usta](https://github.com/ chekuthanOdiyn.png?size=100)](https:// chekuthanOdiyn.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
 ---|---|---|---|---
 [Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
 Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
