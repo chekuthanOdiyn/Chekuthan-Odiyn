@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/ChekuthanOdiyn
 
 RUN git clone ChekuthanOdiyn /root/WhatsAsena
 WORKDIR /root/WhatsAsena/
